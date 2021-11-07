@@ -1,0 +1,4 @@
+# Simple CLI program to find prime numbers less than X
+
+### usage
+`FindPrimesLessThan(1000)`
